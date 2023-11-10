@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-        printf("Version 7");
+        printf("Version 8");
         printf("ABC");
+        printf("EFG");
 }
