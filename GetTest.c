@@ -2,7 +2,7 @@
 
 int main(){
         printf("Version 15");
-        printf("\nToday is ");
+        printf("\nToday is good");
 }
 
 
