@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-        printf("Version 15.2");
-        printf("\nToday is bad");
+        printf("Version 15.1");
+        printf("\nToday is not bad");
 }
 
 
