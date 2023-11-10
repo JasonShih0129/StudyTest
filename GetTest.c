@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-        printf("Version 5");
+        printf("Version 6");
 }
